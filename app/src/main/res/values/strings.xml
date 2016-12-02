@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hosmi</string>
+    <string name="regis">Registrasi Pasien</string>
+    <string name="login">Sign in</string>
+</resources>
