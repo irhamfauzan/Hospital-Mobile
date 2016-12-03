@@ -10,9 +10,7 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:orientation="horizontal"
-
-        >
+        android:orientation="horizontal">
         <EditText
             android:id="@+id/first_name"
             android:layout_width="170dp"
@@ -23,7 +21,7 @@
 
         <EditText
             android:id="@+id/last_name"
-            android:layout_width="wrap_content"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:hint="Nama Belakang"
             android:paddingLeft="16dp"
