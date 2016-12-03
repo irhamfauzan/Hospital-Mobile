@@ -2,4 +2,11 @@
     <string name="app_name">Hosmi</string>
     <string name="regis">Registrasi Pasien</string>
     <string name="login">Sign in</string>
+    <string name="Profil">Profil</string>
+    <string name="title_activity_home">home</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
 </resources>

@@ -21,13 +21,23 @@
         </activity>
         <activity
             android:name=".registrasi"
-            android:label="@string/regis"
-            >
+            android:label="@string/regis">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value=".login" />
         </activity>
-        <activity android:name=".MainActivity"></activity>
+        <activity android:name=".MainActivity" />
+        <activity
+            android:name=".daftar"
+            android:label="@string/Profil">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".login" />
+        </activity>
+        <activity
+            android:name=".home"
+            android:label="@string/title_activity_home"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
 </manifest>
